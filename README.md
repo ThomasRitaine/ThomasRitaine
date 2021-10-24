@@ -53,9 +53,9 @@
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/ungdev/etuutt-api/pull/20) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
-2. 💪 Opened PR [#20](https://github.com/ungdev/etuutt-api/pull/20) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
-3. ❗️ Closed issue [#18](https://github.com/ungdev/etuutt-api/issues/18) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
-4. ❗️ Opened issue [#18](https://github.com/ungdev/etuutt-api/issues/18) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
-5. ❗️ Closed issue [#2](https://github.com/ungdev/etuutt-api/issues/2) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
+1. 🎉 Merged PR [#21](https://github.com/ungdev/etuutt-api/pull/21) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
+2. 🗣 Commented on [#19](https://github.com/ungdev/etuutt-api/issues/19) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
+3. 🎉 Merged PR [#19](https://github.com/ungdev/etuutt-api/pull/19) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
+4. 💪 Opened PR [#21](https://github.com/ungdev/etuutt-api/pull/21) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
+5. 🎉 Merged PR [#20](https://github.com/ungdev/etuutt-api/pull/20) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
 <!--END_SECTION:activity-->
