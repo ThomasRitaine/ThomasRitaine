@@ -53,9 +53,9 @@
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#23](https://github.com/ungdev/etuutt-api/pull/23) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
-2. ❌ Closed PR [#23](https://github.com/ungdev/etuutt-api/pull/23) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
-3. ❗️ Opened issue [#22](https://github.com/ungdev/etuutt-api/issues/22) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
-4. 🗣 Commented on [#1](https://github.com/AsterYujano/leon/issues/1) in [AsterYujano/leon](https://github.com/AsterYujano/leon)
-5. 🎉 Merged PR [#21](https://github.com/ungdev/etuutt-api/pull/21) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
+1. 💪 Opened PR [#24](https://github.com/ungdev/etuutt-api/pull/24) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
+2. 🗣 Commented on [#23](https://github.com/ungdev/etuutt-api/issues/23) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
+3. ❌ Reopened PR [#23](https://github.com/ungdev/etuutt-api/pull/23) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
+4. ❌ Closed PR [#23](https://github.com/ungdev/etuutt-api/pull/23) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
+5. ❗️ Opened issue [#22](https://github.com/ungdev/etuutt-api/issues/22) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
 <!--END_SECTION:activity-->
