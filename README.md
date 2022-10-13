@@ -2,11 +2,11 @@
 
 <br />
 
-![](https://img.shields.io/badge/Available%20for%20hire-Not%20now%20%E2%8F%B3-critical)
+[<img alt="Available for hire" src="https://img.shields.io/badge/Available%20for%20hire-Contact%20me%20%F0%9F%A4%9D-success" />](https://www.linkedin.com/in/thomas-ritaine/)
 
 ## I'm a Student, Developer, and in 2023 i'll be a software engineer !
 
-- 👔 I just started my first internship at [Commoprices](https://commoprices.com/en) as a web scraper and developer !
+- 👔 I finished my first internship at [Commoprices](https://commoprices.com/en) as a web scraper and developer !
 - 💻 I’m currently learning a lot about the web
 - 🤝 I’m looking to collaborate on useful open source projects
 - 🎯 2022 Goals : Automate my daily tasks, and share it to you
