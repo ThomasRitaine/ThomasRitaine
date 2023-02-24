@@ -1,61 +1,66 @@
-### Hi there, I'm Thomas 👋
+<h1 align="center">Hi there 👋 I'm Thomas 🇫🇷</h1>
+<h3 align="center">A software engineer turned Product Owner, with a love for both development and managing IT projects !</h3>
 
-<br />
+- 👔 Currently working as a Product Owner in Tahiti at [#Prox-i](https://www.prox-i.pf/)
 
-[<img alt="Available for hire" src="https://img.shields.io/badge/Available%20for%20hire-Contact%20me%20%F0%9F%A4%9D-success" />](https://www.linkedin.com/in/thomas-ritaine/)
+- 🌱 I’m getting better at **Scrum, the Agile framework**
 
-## I'm a Student, Developer, and in 2023 i'll be a software engineer !
+- 🤝 My favorite open source project is [EtuUTT API](https://github.com/ungdev/etuutt-api/)
 
-- 👔 I finished my first internship at [Commoprices](https://commoprices.com/en) as a web scraper and developer !
-- 💻 I’m currently learning a lot about the web
-- 🤝 I’m looking to collaborate on useful open source projects
-- 🎯 2022 Goals : Automate my daily tasks, and share it to you
-- 🐣 Besides, I love to run and play guitar
+- 👀 I'm at the forefront of technological watch with [TLDR 📰](https://tldr.tech/)
 
-### Connect with me:
+- 🧑‍🤝‍🧑 I’m always looking to collaborate on **useful open source projects**
 
-[<img align="left" alt="Thomas Ritaine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/thomas-ritaine/)
-[<img align="left" width="22px" style="margin-left:10px" alt="Thomas Ritaine | Mail" src="https://svgsilh.com/svg/146039.svg" />](mailto:thomas.ritaine@outlook.com)
+- 📧 How to reach me **thomas.ritaine@outlook.com**
 
-<br />
+- 📄 Know about my experiences [https://www.linkedin.com/in/thomas-ritaine/](https://www.linkedin.com/in/thomas-ritaine/)
 
-### Tools :
+- 🐣 Fun fact, I have been a **french firefighter for 2 years**
 
-<img align="left" width="26px" alt="Visual Studio Code" title="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" width="26px" style="margin-left:8px" alt="Notion" title="Notion" src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" />
-<img align="left" width="26px" style="margin-left:8px" alt="Linux" title="Linux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tux-simple.svg/154px-Tux-simple.svg.png" />
-<img align="left" width="26px" style="margin-left:8px" alt="Git" title="Git" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
-<img align="left" width="26px" style="margin-left:8px" alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" width="26px" style="margin-left:8px" alt="Command prompt" title="Command prompt" src="https://cdn-icons-png.flaticon.com/512/0/655.png" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:thomas.ritaine@outlook.com" target="blank"><img align="center" src="https://assets.stickpng.com/images/584856bce0bb315b0f7675ad.png" alt="thomas-ritaine" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/thomas-ritaine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas-ritaine" height="40" width="40" /></a>
+<a href="https://discord.gg/Thomas Ritaine#4947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Thomas Ritaine#4947" height="40" width="40" /></a>
+</p>
 
-<br />
+<h3 align="left">Tools :</h3>
+<p align="left">
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40" /> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40" height="40" /> </a>
+</p>
 
-### And languages :
+<h3 align="left">And languages :</h3>
+<p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
+    <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40" /> </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
+    <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" /> </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
+    <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40" /> </a>
+    <a href="https://api-platform.com/" target="_blank" rel="noreferrer"> <img src="https://api-platform.com/static/74e20e175f4d908bbc0f1e2af28d3d66/Logo_Circle%20webby%20blue.svg" alt="API Platform" width="40" height="40" /> </a>
+</p>
 
-<img align="left" width="26px" style="margin-left:8px" alt="HTML" title="HTML" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
-<img align="left" width="26px" style="margin-left:8px" alt="CSS" title="CSS" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
-<img align="left" width="26px" style="margin-left:8px" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" width="26px" style="margin-left:8px" alt="Node.js" title="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" width="26px" style="margin-left:8px" alt="Puppeteer" title="Puppeteer" src="https://seeklogo.com/images/P/puppeteer-logo-254C5F1692-seeklogo.com.png" />
-<img align="left" width="26px" style="margin-left:8px" alt="Python" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img align="left" width="26px" style="margin-left:8px" alt="Java" title="Java" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/550px-Java_Logo.svg.png" />
-<img align="left" width="26px" style="margin-left:8px" alt="SQL" title="SQL" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" />
-<img align="left" width="26px" style="margin-left:3px" alt="PHP" title="PHP" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />
-<img align="left" width="26px" style="margin-left:8px" alt="Laravel" title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
-<img align="left" width="26px" style="margin-left:8px" alt="Symfony" title="Symfony" src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" />
-<img align="left" width="26px" style="margin-left:8px" alt="API Platform" title="API Platform" src="https://api-platform.com/static/74e20e175f4d908bbc0f1e2af28d3d66/Logo_Circle%20webby%20blue.svg" />
-<br />
-<br />
+
 
 ---
 
 <img align="left" alt="Thomas's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thomasritaine&show_icons=true&hide_border=true" />
 
+---
+
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/ungdev/etuutt-api/pull/24) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
-2. 🗣 Commented on [#23](https://github.com/ungdev/etuutt-api/issues/23) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
-3. ❌ Reopened PR [#23](https://github.com/ungdev/etuutt-api/pull/23) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
-4. ❌ Closed PR [#23](https://github.com/ungdev/etuutt-api/pull/23) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
-5. ❗️ Opened issue [#22](https://github.com/ungdev/etuutt-api/issues/22) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
+1. ❗️ Closed issue [#18](https://github.com/ungdev/etuutt-api/issues/18) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
+2. ❗️ Opened issue [#18](https://github.com/ungdev/etuutt-api/issues/18) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
+3. ❗️ Closed issue [#2](https://github.com/ungdev/etuutt-api/issues/2) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
+4. 🗣 Commented on [#2](https://github.com/ungdev/etuutt-api/issues/2) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
+5. ❗️ Closed issue [#10](https://github.com/ungdev/etuutt-api/issues/10) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
 <!--END_SECTION:activity-->
