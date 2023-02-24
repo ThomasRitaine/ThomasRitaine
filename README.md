@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Thomas 🇫🇷</h1>
 <h3 align="center">A software engineer turned Product Owner, with a love for both development and managing IT projects !</h3>
 
+<br />
+
 - 👔 Currently working as a Product Owner in Tahiti at [#Prox-i](https://www.prox-i.pf/)
 
 - 🌱 I’m getting better at **Scrum, the Agile framework**
@@ -19,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:thomas.ritaine@outlook.com" target="blank"><img align="center" src="https://assets.stickpng.com/images/584856bce0bb315b0f7675ad.png" alt="thomas-ritaine" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/thomas-ritaine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas-ritaine" height="40" width="40" /></a>
+<a href="mailto:thomas.ritaine@outlook.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/009/973/213/original/email-and-mail-icon-sign-symbol-design-free-png.png" alt="thomas-ritaine" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/thomas-ritaine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas-ritaine" height="40" width="40" /></a>&nbsp;
 <a href="https://discord.gg/Thomas Ritaine#4947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Thomas Ritaine#4947" height="40" width="40" /></a>
 </p>
 
@@ -53,8 +55,6 @@
 ---
 
 <img align="left" alt="Thomas's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thomasritaine&show_icons=true&hide_border=true" />
-
----
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
