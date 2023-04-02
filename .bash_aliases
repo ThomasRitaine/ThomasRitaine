@@ -27,12 +27,12 @@ dc () {
 
 #   Docker Exec, interactive
 de () {
-    command docker exec -it $1 /bin/bash
+    command docker exec -it $@ /bin/sh
 }
 
 #   Docker Exec, simple command
 dec () {
-    command docker exec $1
+    command docker exec $@
 }
 
 #   Miscellaneous
