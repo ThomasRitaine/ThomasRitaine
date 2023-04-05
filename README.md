@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Thomas 🇫🇷</h1>
+<h1 align="center">Hi there 👋<br />I'm Thomas 🇫🇷</h1>
 <h3 align="center">A software engineer turned Product Owner, with a love for both development and managing IT projects !</h3>
 
 <br />
