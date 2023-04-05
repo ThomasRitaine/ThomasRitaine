@@ -3,9 +3,7 @@ alias ..="cd .."
 alias ....="cd ../.."
 
 cd() {
-    if [[ $1 = "proj" ]]; then
-        builtin cd ~/dev-projects
-    elif [[ $1 = "etuutt" ]]; then
+    if [[ $1 = "etuutt" ]]; then
         builtin cd ~/dev-projects/etuutt-api
     elif [[ $1 = "c" ]]; then
         builtin cd /mnt/c
@@ -25,14 +23,13 @@ dc () {
   fi
 }
 
-#   Docker Exec, interactive
+#   Docker Exec
 de () {
-    command docker exec -it $@ /bin/sh
-}
-
-#   Docker Exec, simple command
-dec () {
-    command docker exec $@
+    if [[ $2 == "bash" || $2 == "sh"  ]]; then
+        command docker exec -it $1 /bin/$2
+    else
+        command docker exec $@
+    fi
 }
 
 #   Miscellaneous
