@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thomas-ritaine/](https://www.linkedin.com/in/thomas-ritaine/)
 
-- 🐣 Fun fact, I have been a **french firefighter for 2 years**
+- 🐣 Fun fact, I have probably done more CPR that PR, **french firefighter for 2 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
