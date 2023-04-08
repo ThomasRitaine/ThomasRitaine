@@ -36,6 +36,7 @@ de () {
 alias update="sudo apt-get update && sudo apt-get upgrade"
 
 #   Background image
+BASH_ALIASES_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 bg () {
-    command bash ~/dev-projects/ThomasRitaine/windows_terminal/background/bg.sh $@
+    command bash "$BASH_ALIASES_DIR/../windows_terminal/background/bg.sh" $@
 }
