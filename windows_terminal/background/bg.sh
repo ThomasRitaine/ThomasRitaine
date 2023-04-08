@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Stop script at first error
+set -e
+
 # Get the directory of the script
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
@@ -28,7 +31,6 @@ print_help() {
   echo "  bg save my_image_name"
   echo "  bg ls"
 }
-
 
 # Initialize variables
 COMMAND=""
@@ -59,15 +61,17 @@ while [ "$#" -gt 0 ]; do
   shift
 done
 
-
+# Check if a command was provided
 if [ -z "$COMMAND" ]; then
   echo "No command provided. What do we do chief ?" >&2
   print_help
   exit 1
 fi
 
+# Execute the change command
 if [ "$COMMAND" == "change" ]; then
 
+  # Check if a custom image name was provided
   if [[ -n $IMAGE_NAME ]]; then
     # Load an existing image
     IMAGE_PATH=$(find "$SCRIPT_DIR/images/" -type f -iname "$IMAGE_NAME.*" -print -quit)
@@ -81,7 +85,7 @@ if [ "$COMMAND" == "change" ]; then
     fi
 
   else
-    # Get a new image online bashed on the keyword list
+    # Fetch a new image online based on the keyword list
 
     # Define a list of keywords
     mapfile -t KEYWORD_LIST < "$SCRIPT_DIR/keywords.txt"
@@ -107,6 +111,7 @@ if [ "$COMMAND" == "change" ]; then
     jq --arg image_url "$IMAGE_URL" '.profiles.defaults.backgroundImage = $image_url' "$WSL_PATH_TO_SETTINGS" > temp.json && mv temp.json "$WSL_PATH_TO_SETTINGS"
   fi
 
+# Execute the save command
 elif [ "$COMMAND" == "save" ]; then
 
   # Get the current backgroundImage URL from settings.json
@@ -133,6 +138,7 @@ elif [ "$COMMAND" == "save" ]; then
   mv "$TEMP_IMAGE_PATH" "$SCRIPT_DIR/images/$IMAGE_FILENAME"
   echo "Image saved to $SCRIPT_DIR/images/$IMAGE_FILENAME"
 
+# Execute the ls command
 elif [ "$COMMAND" == "ls" ]; then
 
   # List all image names without extensions in the images folder
