@@ -41,8 +41,15 @@ while [ "$#" -gt 0 ]; do
   case "$1" in
     change|save)
       COMMAND="$1"
-      IMAGE_NAME="$2"
       shift
+      case "$1" in
+        -*|"") # Do nothing if next argument is another option or empty
+          ;;
+        *)
+          IMAGE_NAME="$1"
+          shift
+          ;;
+      esac
       ;;
     ls)
       COMMAND="$1"
@@ -53,12 +60,11 @@ while [ "$#" -gt 0 ]; do
       exit 0
       ;;
     *)
-      echo "Unknown option: $1" >&2
+      echo "Unknown command: $1" >&2
       print_help
       exit 1
       ;;
   esac
-  shift
 done
 
 # Check if a command was provided
