@@ -8,7 +8,7 @@ format = """
 [╭─◀](#a3aed2)\
     [ ${env_var.STARSHIP_DISTRO} ](fg:#000000 bg:#a3aed2)\
 [](fg:#a3aed2 bg:#769ff0)\
-    $username\
+    $username${custom.user_emoji}\
     ${custom.local_hostname}\
     $hostname\
 [](fg:#769ff0 bg:#3883c5)\
@@ -39,12 +39,14 @@ $line_break\
 format = '$env_value'
 variable = "STARSHIP_DISTRO"
 
-[custom.root_emoji]
-command = "[ \"$(id -u)\" -eq 0 ] && echo \" 👑\""
+[custom.user_emoji]
+command = "if [ \"$USER\" = 'thomas' ]; then echo '🐣'; elif [ \"$USER\" = 'root' ]; then echo '👑'; fi"
+format = '[( $output)]($style)'
+style = 'bg:#769ff0'
 when = true
 
 [username]
-format = "[ $user${custom.root_emoji}]($style)" # Default is '[$user]($style) in '
+format = "[ $user]($style)" # Default is '[$user]($style) in '
 show_always = true 
 style_root = 'fg:#e1eaf8 bg:#769ff0' 
 style_user = 'fg:#e1eaf8 bg:#769ff0' 
