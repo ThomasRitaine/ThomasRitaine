@@ -105,7 +105,7 @@ format = '([\[$all_status$ahead_behind\] ]($style))'
 style = 'fg:#e9f2ff bg:#3c699a'
 
 [custom.docker]
-command = "docker compose ps -a --format json | jq -r '.[0].State // \"never been up\"'"
+command = "docker compose ps -a --format json | jq -r '.[0].State // \"not created\"'"
 detect_files = ['docker-compose.yml']
 format = '[ $symbol ($output )]($style)'
 style = 'fg:#0db7ed bg:#31486e'
