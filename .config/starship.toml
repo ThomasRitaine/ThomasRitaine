@@ -29,10 +29,12 @@ format = """
 $fill\
 $status\
 $cmd_duration\
-( | ⚠️$memory_usage)\
+( 🥵$memory_usage)\
 $line_break\
 [╰─](#a3aed2)\
 [❯ ](#a3aed2)"""
+
+command_timeout = 1000
 
 # Shows an icon depending on what distro it is running on
 [env_var.STARSHIP_DISTRO]
@@ -144,6 +146,6 @@ show_milliseconds = true
 
 [memory_usage]
 disabled = false
-format = ' $symbol [${ram}( \| ${swap})]($style)'
+format = ' $symbol[${ram}]($style)'
 symbol = " "
 threshold = 66
