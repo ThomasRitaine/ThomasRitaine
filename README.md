@@ -3,6 +3,10 @@
 
 <br />
 
+![](https://komarev.com/ghpvc/?username=ThomasRitaine)
+
+<br />
+
 - 👔 Currently working as a Product Owner in Tahiti at [#Prox-i](https://www.prox-i.pf/)
 
 - 🌱 I’m getting better at **Scrum, the Agile framework**
@@ -17,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thomas-ritaine/](https://www.linkedin.com/in/thomas-ritaine/)
 
-- 🐣 Fun fact, I have probably done more CPR that PR, **french firefighter for 2 years**
+- 🐣 Fun fact, I have probably done more CPR than PR, **french firefighter for 2 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
