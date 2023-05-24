@@ -14,7 +14,12 @@ git clone https://github.com/ThomasRitaine/ThomasRitaine
 curl -sS https://starship.rs/install.sh | sh
 ```
 
-3. Add the setup script of that config inside your `.bashrc`
+3. Install JQ
+```sh
+sudo apt install jq -y
+```
+
+4. Add the setup script of that config inside your `.bashrc`
 ```sh
 echo '
 #====================================
