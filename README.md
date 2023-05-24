@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋<br />I'm Thomas 🇫🇷</h1>
-<h3 align="center">A software engineer turned Product Owner, with a love for both development and managing IT projects !</h3>
+<h3 align="center">A software engineer turned DevOps, with a love for both development and deploying web apps !</h3>
 
 <br />
 
@@ -9,7 +9,7 @@
 
 - 👔 Currently working as a Product Owner in Tahiti at [#Prox-i](https://www.prox-i.pf/)
 
-- 🌱 I’m getting better at **Scrum, the Agile framework**
+- 🌱 I’m getting good at **Docker and CI CD pipelines**
 
 - 🤝 My favorite open source project is [EtuUTT API](https://github.com/ungdev/etuutt-api/)
 
