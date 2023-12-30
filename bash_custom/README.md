@@ -31,8 +31,9 @@ echo '
 #====================================
 
 # Load bash_aliases and Starship from my personal config repo
-if [ -d ~/dev-projects/ThomasRitaine ]; then
-    source ~/dev-projects/ThomasRitaine/bash_custom/init.sh
+CONFIG_REPO_DIR=~/dev-projects/ThomasRitaine
+if [ -d "$CONFIG_REPO_DIR" ]; then
+    source "$CONFIG_REPO_DIR/bash_custom/init.sh"
 fi
 ' >> ~/.bashrc
 ```
