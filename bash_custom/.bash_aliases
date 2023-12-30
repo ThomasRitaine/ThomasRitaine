@@ -1,11 +1,10 @@
 #   Directories
 alias ..="cd .."
 alias ....="cd ../.."
+alias ll="ls -la"
 
 cd() {
-    if [[ $1 = "etuutt" ]]; then
-        builtin cd ~/dev-projects/etuutt-api
-    elif [[ $1 = "c" ]]; then
+    if [[ $1 = "c" ]]; then
         builtin cd /mnt/c
     elif [[ $1 = "c~" ]]; then
         builtin cd /mnt/c/Users/Thomas
