@@ -1,1 +1,4 @@
 .env
+
+images/*
+!images/ubuntu_background.gif
