@@ -62,7 +62,7 @@
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ThomasRitaine/auto-midjourney/pull/2) in [ThomasRitaine/auto-midjourney](https://github.com/ThomasRitaine/auto-midjourney)
+1. ❗ Opened issue [#1134](https://github.com/danswer-ai/danswer/issues/1134) in [danswer-ai/danswer](https://github.com/danswer-ai/danswer)
 2. 💪 Opened PR [#2](https://github.com/ThomasRitaine/auto-midjourney/pull/2) in [ThomasRitaine/auto-midjourney](https://github.com/ThomasRitaine/auto-midjourney)
 3. ❗️ Closed issue [#2](https://github.com/ungdev/etuutt-api/issues/2) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
 4. 🗣 Commented on [#2](https://github.com/ungdev/etuutt-api/issues/2) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
