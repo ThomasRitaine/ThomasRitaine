@@ -62,9 +62,9 @@
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1138](https://github.com/danswer-ai/danswer/pull/1138) in [danswer-ai/danswer](https://github.com/danswer-ai/danswer)
-2. 🗣 Commented on [#1134](https://github.com/danswer-ai/danswer/issues/1134#issuecomment-1966175526) in [danswer-ai/danswer](https://github.com/danswer-ai/danswer)
-3. ❗ Opened issue [#1134](https://github.com/danswer-ai/danswer/issues/1134) in [danswer-ai/danswer](https://github.com/danswer-ai/danswer)
-4. 🗣 Commented on [#2](https://github.com/ungdev/etuutt-api/issues/2) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
+1. 🗣 Commented on [#1069](https://github.com/danswer-ai/danswer/pull/1069#issuecomment-1992080007) in [danswer-ai/danswer](https://github.com/danswer-ai/danswer)
+2. 💪 Opened PR [#1138](https://github.com/danswer-ai/danswer/pull/1138) in [danswer-ai/danswer](https://github.com/danswer-ai/danswer)
+3. 🗣 Commented on [#1134](https://github.com/danswer-ai/danswer/issues/1134#issuecomment-1966175526) in [danswer-ai/danswer](https://github.com/danswer-ai/danswer)
+4. ❗ Opened issue [#1134](https://github.com/danswer-ai/danswer/issues/1134) in [danswer-ai/danswer](https://github.com/danswer-ai/danswer)
 5. ❗️ Closed issue [#10](https://github.com/ungdev/etuutt-api/issues/10) in [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
 <!--END_SECTION:activity-->
